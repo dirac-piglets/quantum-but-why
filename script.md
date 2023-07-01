@@ -1,5 +1,5 @@
 # Quantum mechanics ...but why?!
-## Epizode 1: Superposition
+## Episode 1: Superposition
 
 You've probably heard many things about quantum mechanics:
   * that quantum objects can seemingly exist in several mutually exclusive states at once
@@ -20,12 +20,20 @@ In the lectures we will not shy away from complicated math, but we will always t
 
 This series is going to take some time to make, so if you don't want to miss any future video, be sure to subscribe to our channel, or give us a follow on GitHub!
 
-## The Structure of Atoms
+## Electromagnetism, atoms and beyond
+
+Before we start to explore the weird and wonderful world of quantum, we should have at least some understanding of the physics that came before it. So let's quickly hop into our time machine and take a look at what physicists were up to in the late 19th and early 20th century.
+
+1861 – James Clerk Maxwell publishes a paper in which he provides a unified theory of electricity, magnetism and light. Until then, they were seen as mutually influential but separate phenomena. Maxwell compiled twenty equations that tie these together. To quickly recap [...]
+
+[1] https://ethw.org/Maxwell%27s_Equations
+[2] https://sequentialmath.com/comic/a-brief-history-of-vector-calculus
+
 
 ...
 
-The more skeptical amongst you might object to this conclusion, saying that this would prove nothing, as it all relies on my (clearly incomplete) model of the atom. Well, first of all: too many questions spoil the broth, and curiosity killed the cat¹. But yeah, I guess you're right Dr. Smarty-Pants. If you're so smart and critical, you can imagine we're shooting single neutrons instead, so rather than demonstrating the magnetic moment of an electron, you'd be measuring the magnetic moment of a neutron. Neutron is approximately a thousand times weaker as a magnet, so you'd need a more sensitive aparatus, but apart from that, the experiment would go exactly the same. Everyone happy? Good, we can carry on with the experiment.
+The more skeptical amongst you might object to this conclusion, saying that this would prove nothing, as it all relies on my (clearly incomplete) model of the atom. Well, first of all: too many questions spoil the broth, and curiosity killed the cat¹. But yeah, I guess you're right Dr. Smarty-Pants. If you're so smart and critical, you can imagine we're shooting single neutrons instead, so rather than demonstrating the magnetic moment of the electron, you'd be measuring the magnetic moment of the neutron. The neutron is approximately a thousand times weaker as a magnet, so you'd need a more sensitive aparatus, but apart from that, the experiment would go exactly the same. Everyone happy? Good, we can carry on with the experiment.
 
-¹ Technically, the cat is still alive at the same time.
+¹Technically, the cat is still alive at the same time.
 
 (Half-Life scientist: "They are waiting for you, Gordon. In the test chamberrrr.")
