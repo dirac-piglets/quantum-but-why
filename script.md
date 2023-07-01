@@ -24,10 +24,30 @@ This series is going to take some time to make, so if you don't want to miss any
 
 Before we start to explore the weird and wonderful world of quantum, we should have at least some understanding of the physics that came before it. So let's quickly hop into our time machine and take a look at what physicists were up to in the late 19th and early 20th century.
 
-1861 – James Clerk Maxwell publishes a paper in which he provides a unified theory of electricity, magnetism and light. Until then, they were seen as mutually influential but separate phenomena. Maxwell compiled twenty equations that tie these together. To quickly recap [...]
+1861 – James Clerk Maxwell publishes a paper in which he provides a unified theory of electricity, magnetism and light. Until then, they were seen as mutually influential but separate phenomena. Maxwell compiled twenty equations that tie these together.
 
 [1] https://ethw.org/Maxwell%27s_Equations
+
+1884 – William Hamilton, Oliver Heaviside and J. W. Gibbs invented vectors, which allowed them to rewrite the twenty equations of Maxwell to four vector equations. This is the form of Maxwell's equations you'll find in modern literature.
+
 [2] https://sequentialmath.com/comic/a-brief-history-of-vector-calculus
+
+Since we'll need both vectors and electromagnetism, let us recap really quickly:
+  1. there are electric charges
+  2. 
+
+
+Prereq:
+  1. EM
+    * emise EM zář.
+    * lorenzova síla
+    * polarizace
+  2. vec
+    * šipka, n-tice čísel
+    * délka vektoru, jednotkový vektor
+    * délka vektoru v nějakém směru
+    * vektor otočený daným směrem
+    * délka vektoru ve směru jiného (skalární součin)
 
 
 ...
